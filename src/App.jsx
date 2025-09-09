@@ -1,7 +1,7 @@
 import React from 'react'
-import { Route, Router, Routes } from 'react-router-dom'
-import DashboardLayout from './pages/dashboard/dashboardLayout'
-import Home from './pages/dashboard/home'
+import { Route, Routes } from 'react-router-dom'
+import DashboardLayout from './pages/dashboard/DashboardLayout'
+import Home from './pages/dashboard/Home'
 
 export default function App() {
   return (
