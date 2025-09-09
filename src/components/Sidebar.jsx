@@ -36,8 +36,8 @@ const navLinks = [
         icon: HiOutlineChartPie
     },
     {
-        name: "chart",
-        path: "/chart",
+        name: "mail",
+        path: "/mail",
         icon: CiMail
     },
 ]

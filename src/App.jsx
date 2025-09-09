@@ -9,6 +9,11 @@ export default function App() {
       <Routes>
         <Route path='/' element={<DashboardLayout />}>
           <Route index element={<Home />} />
+          <Route path='about' />
+          <Route path='task' />
+          <Route path='people' />
+          <Route path='chart' />
+          <Route path='mail' />
         </Route>
       </Routes>
     </div>
